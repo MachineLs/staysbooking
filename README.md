@@ -1,5 +1,4 @@
-# staysbooking
-Staybooking: An online stay rental application based on React and Spring Boot.
+# Staybooking: An online stay rental application based on React and Spring Boot.
 
 • Designed and built a single page web application using React. Bootstrap the development with mature component library AntD.
 
